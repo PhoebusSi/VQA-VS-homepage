@@ -12,8 +12,9 @@
 The current OOD benchmark VQA-CP v2 only considers one type of shortcut (from question type to answer) and thus still cannot guarantee that the modelrelies on the intended solution rather than a solution specific to this shortcut. To overcome this limitation, VQA-VS proposes a new dataset that considers varying types of shortcuts by constructing different distribution shifts in multiple OOD test sets. In addition, VQA-VS overcomes three troubling practices in the use of VQA-CP v2, e.g., selecting models using OOD test sets, and further standardize OOD evaluation procedure. VQA-VS provides a more rigorous and comprehensive testbed for shortcut learning in VQA. 
 
 ## The VQA-VS dataset is provided below.
-<font face="黑体" color=green size=2>VQA-VS Annotations</font>｜ <font face="黑体" color=green size=2>VQA-VS Questions</font>
--|- 
+<!-- <font face="黑体" color=green size=2>VQA-VS Annotations</font>｜ <font face="黑体" color=green size=2>VQA-VS Questions</font> -->
+VQA-VS Annotations | VQA-VS Questions
+-|-
 [Training Annotations](https://drive.google.com/file/d/1gDIUlSFHUKDpP5rYrIL3y8ER-RFmawbv/view?usp=sharing) | [Training Questions](https://drive.google.com/file/d/1VtPYUq7bSpozAvEYFiBewppQSiBDcSu2/view?usp=sharing)
 [Validation Annotations](https://drive.google.com/file/d/1_1fPVpdwdCzYjcQNhj9Cln9btTXI-mov/view?usp=sharing) | [Validation Questions](https://drive.google.com/file/d/17sxbQFow3I-cSiwyVcmQ9AdlUDBKp1uM/view?usp=sharing)
 [IID-Test Annotations](https://drive.google.com/file/d/1aNlIQBQ5mIF9M8dQ55UOxbw46sAiwYo4/view?usp=sharing) | [IID-Test Questions](https://drive.google.com/file/d/1Bn1jkyBWONGHFrAM8rh6L8NDdIVe7j5v/view?usp=sharing)
