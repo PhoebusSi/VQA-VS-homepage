@@ -21,7 +21,7 @@
 
 ## The VQA-VS dataset is provided below.
 <!-- <font face="黑体" color=green size=2>VQA-VS Annotations</font>｜ <font face="黑体" color=green size=2>VQA-VS Questions</font> -->
-    VQA-VS Annotations |     VQA-VS Questions
+VQA-VS Annotations |     VQA-VS Questions
 -|-
 [Training Annotations](https://drive.google.com/file/d/1gDIUlSFHUKDpP5rYrIL3y8ER-RFmawbv/view?usp=sharing) | [Training Questions](https://drive.google.com/file/d/1VtPYUq7bSpozAvEYFiBewppQSiBDcSu2/view?usp=sharing)
 [Validation Annotations](https://drive.google.com/file/d/1_1fPVpdwdCzYjcQNhj9Cln9btTXI-mov/view?usp=sharing) | [Validation Questions](https://drive.google.com/file/d/17sxbQFow3I-cSiwyVcmQ9AdlUDBKp1uM/view?usp=sharing)
