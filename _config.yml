@@ -1,5 +1,6 @@
 title: VQA-VS
+logo: https:/github.com/PhoebusSi/VQA-VS-homepage/raw/main/VS.jpg
 description: Language Prior Is Not the Only Shortcut - A Benchmark for Shortcut Learning in VQA
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
