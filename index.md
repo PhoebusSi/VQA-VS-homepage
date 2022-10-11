@@ -11,38 +11,19 @@
 # Data
 The current OOD benchmark VQA-CP v2 only considers one type of shortcut (from question type to answer) and thus still cannot guarantee that the modelrelies on the intended solution rather than a solution specific to this shortcut. To overcome this limitation, VQA-VS proposes a new dataset that considers varying types of shortcuts by constructing different distribution shifts in multiple OOD test sets. In addition, VQA-VS overcomes three troubling practices in the use of VQA-CP v2, e.g., selecting models using OOD test sets, and further standardize OOD evaluation procedure. VQA-VS provides a more rigorous and comprehensive testbed for shortcut learning in VQA. The VQA-VS dataset is provided below.
 
-<font face="黑体" color=green size=2>VQA-VS Annotations</font> \ \ \ \ \ <font face="黑体" color=green size=2>VQA-VS Questions</font>
-[Training Annotations](https://drive.google.com/file/d/1gDIUlSFHUKDpP5rYrIL3y8ER-RFmawbv/view?usp=sharing) \ \ \ \ \ [Training Questions](https://drive.google.com/file/d/1VtPYUq7bSpozAvEYFiBewppQSiBDcSu2/view?usp=sharing)
-
-
-[Validation Annotations](https://drive.google.com/file/d/1_1fPVpdwdCzYjcQNhj9Cln9btTXI-mov/view?usp=sharing)\ \ \ \ \ [Validation Questions](https://drive.google.com/file/d/17sxbQFow3I-cSiwyVcmQ9AdlUDBKp1uM/view?usp=sharing)
-
-
-[IID-Test Annotations](https://drive.google.com/file/d/1aNlIQBQ5mIF9M8dQ55UOxbw46sAiwYo4/view?usp=sharing)\ \ \ \ \ [IID-Test Questions](https://drive.google.com/file/d/1Bn1jkyBWONGHFrAM8rh6L8NDdIVe7j5v/view?usp=sharing)
-
-
-[OOD-QT-Test Annotations](https://drive.google.com/file/d/1q928zVC0M14rWkuk9hLymW9RddD58bV4/view?usp=sharing) \ \ \ [OOD-QT-Test Questions](https://drive.google.com/file/d/1ONNpoYpqbqXS1kyGkS09Hq8m1OVCKfqt/view?usp=sharing)
-
-
-[OOD-KW-Test Annotations](https://drive.google.com/file/d/19AzV4Q4X8_zITbAkFUBSOzbGIrA3Pxo3/view?usp=sharing)\ \ \ [OOD-KW-Test Questions](https://drive.google.com/file/d/1wbrj7NfXugQqgvI03XFm_cm325Bn0k0H/view?usp=sharing)
-
-
-[OOD-KWP-Test Annotations](https://drive.google.com/file/d/1Z0Ga2SXkIwkWibpX12MBOFo5SGvr1Yu4/view?usp=sharing)\ \ \ [OOD-KWP-Test Questions](https://drive.google.com/file/d/1bhVr54lqHO9rQM8vKh3Z2F3G9d98M5hr/view?usp=sharing)
-
-
-[OOD-KO-Test Annotations](https://drive.google.com/file/d/1gbJJhAoCGlbK3lPeaPgTGwvDFLgEO-1q/view?usp=sharing)\ \ \ [OOD-KO-Test Questions](https://drive.google.com/file/d/1d-M4qBAwSpDaLnh2gjO61B_gspmzCNO7/view?usp=sharing)
-
-
-[OOD-KOP-Test Annotations](https://drive.google.com/file/d/1PGsvmGLO5kyn-pqqPtsKPcK2vlaFwW_Y/view?usp=sharing)\ \ \ [OOD-KOP-Test Questions](https://drive.google.com/file/d/14Cj03Xkpa0J8DcN_UShQW8ZMZuLvlOSC/view?usp=sharing)
-
-
-[OOD-QT+KO-Test Annotations](https://drive.google.com/file/d/1J_YoK-miWtxGQs-lrR85WiSFzcneUTKN/view?usp=sharing)\ \ \ [OOD-QT+KO-Test Questions](https://drive.google.com/file/d/1RW-7ZsE50zN83OJnMs5SrPIxIagkfew-/view?usp=sharing)
-
-
-[OOD-KW+KO-Test Annotations](https://drive.google.com/file/d/1jK35yUPVNhSKIHJgOVRzO-96QPgcQORA/view?usp=sharing)\ \ \ [OOD-KW+KO-Test Questions](https://drive.google.com/file/d/13N0_sow6xOLzmz_OEgAiqgAKBbwo0y-d/view?usp=sharing)
-
-
-[OOD-QT+KW+KO-Test Annotations](https://drive.google.com/file/d/1V1IgxbQsJ17c5gcy5K0gW-hOFdPgr6-H/view?usp=sharing)\ \ \ [OOD-QT+KW+KO-Test Questions](https://drive.google.com/file/d/1dwrG9apK64TfY3L9zNHfkYYu0RZC_kBY/view?usp=sharing)
+<font face="黑体" color=green size=2>VQA-VS Annotations</font> | <font face="黑体" color=green size=2>VQA-VS Questions</font>
+-|-
+[Training Annotations](https://drive.google.com/file/d/1gDIUlSFHUKDpP5rYrIL3y8ER-RFmawbv/view?usp=sharing) | [Training Questions](https://drive.google.com/file/d/1VtPYUq7bSpozAvEYFiBewppQSiBDcSu2/view?usp=sharing)
+[Validation Annotations](https://drive.google.com/file/d/1_1fPVpdwdCzYjcQNhj9Cln9btTXI-mov/view?usp=sharing) | [Validation Questions](https://drive.google.com/file/d/17sxbQFow3I-cSiwyVcmQ9AdlUDBKp1uM/view?usp=sharing)
+[IID-Test Annotations](https://drive.google.com/file/d/1aNlIQBQ5mIF9M8dQ55UOxbw46sAiwYo4/view?usp=sharing) | [IID-Test Questions](https://drive.google.com/file/d/1Bn1jkyBWONGHFrAM8rh6L8NDdIVe7j5v/view?usp=sharing)
+[OOD-QT-Test Annotations](https://drive.google.com/file/d/1q928zVC0M14rWkuk9hLymW9RddD58bV4/view?usp=sharing) | [OOD-QT-Test Questions](https://drive.google.com/file/d/1ONNpoYpqbqXS1kyGkS09Hq8m1OVCKfqt/view?usp=sharing)
+[OOD-KW-Test Annotations](https://drive.google.com/file/d/19AzV4Q4X8_zITbAkFUBSOzbGIrA3Pxo3/view?usp=sharing) | [OOD-KW-Test Questions](https://drive.google.com/file/d/1wbrj7NfXugQqgvI03XFm_cm325Bn0k0H/view?usp=sharing)
+[OOD-KWP-Test Annotations](https://drive.google.com/file/d/1Z0Ga2SXkIwkWibpX12MBOFo5SGvr1Yu4/view?usp=sharing) | [OOD-KWP-Test Questions](https://drive.google.com/file/d/1bhVr54lqHO9rQM8vKh3Z2F3G9d98M5hr/view?usp=sharing)
+[OOD-KO-Test Annotations](https://drive.google.com/file/d/1gbJJhAoCGlbK3lPeaPgTGwvDFLgEO-1q/view?usp=sharing) | [OOD-KO-Test Questions](https://drive.google.com/file/d/1d-M4qBAwSpDaLnh2gjO61B_gspmzCNO7/view?usp=sharing)
+[OOD-KOP-Test Annotations](https://drive.google.com/file/d/1PGsvmGLO5kyn-pqqPtsKPcK2vlaFwW_Y/view?usp=sharing) | [OOD-KOP-Test Questions](https://drive.google.com/file/d/14Cj03Xkpa0J8DcN_UShQW8ZMZuLvlOSC/view?usp=sharing)
+[OOD-QT+KO-Test Annotations](https://drive.google.com/file/d/1J_YoK-miWtxGQs-lrR85WiSFzcneUTKN/view?usp=sharing) | [OOD-QT+KO-Test Questions](https://drive.google.com/file/d/1RW-7ZsE50zN83OJnMs5SrPIxIagkfew-/view?usp=sharing)
+[OOD-KW+KO-Test Annotations](https://drive.google.com/file/d/1jK35yUPVNhSKIHJgOVRzO-96QPgcQORA/view?usp=sharing) | [OOD-KW+KO-Test Questions](https://drive.google.com/file/d/13N0_sow6xOLzmz_OEgAiqgAKBbwo0y-d/view?usp=sharing)
+[OOD-QT+KW+KO-Test Annotations](https://drive.google.com/file/d/1V1IgxbQsJ17c5gcy5K0gW-hOFdPgr6-H/view?usp=sharing) | [OOD-QT+KW+KO-Test Questions](https://drive.google.com/file/d/1dwrG9apK64TfY3L9zNHfkYYu0RZC_kBY/view?usp=sharing)
 
 
 
