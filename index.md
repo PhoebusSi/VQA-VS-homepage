@@ -4,7 +4,7 @@
 &emsp;[<font size=2>Qingyi Si</font>](https://phoebussi.github.io/siqingyi/)<font size=2>, Fandong Meng, Mingyu Zheng, Zheng Lin</font> 
 &emsp;<font size=2>Yuanxin Liu，Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou</font> 
 <!-- &emsp;<font size=2>Institute of Information Engineering, Chinese Academy of Sciences</font>  -->
-[<font size=5>Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA</font>](https://arxiv.org/abs/2210.04692)  
+[<font size=4>Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA</font>](https://arxiv.org/abs/2210.04692)  
 
 [Qingyi Si](https://phoebussi.github.io/siqingyi/), Fandong Meng, Mingyu Zheng, Zheng Lin, Yuanxin Liu, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou
 
