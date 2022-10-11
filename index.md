@@ -1,5 +1,4 @@
 # Paper
-
 <img align="left" src="https://github.com/PhoebusSi/VQA-VS-homepage/blob/main/VS.jpg" width = "155" height = "85"/>
 &emsp;**Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA**    
 &emsp;Qingyi Si, Fandong Meng, Mingyu Zheng, Zheng Lin, Yuanxin Liu, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou
