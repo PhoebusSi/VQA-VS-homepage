@@ -1,6 +1,14 @@
-# VQA-VS
+# Paper
 
-Here is the homepage of our Findings of EMNLP-2022 [Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA](https://arxiv.org/abs/2210.04692). You can download VQA-VS here.
+<img align="left" src="https://github.com/PhoebusSi/VQA-VS-homepage/assets/img/CAS.png" width = "65" height = "105"/>
+&emsp;**Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA**    
+&emsp;Qingyi Si, Fandong Meng, Mingyu Zheng, Zheng Lin, Yuanxin Liu, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou
+&emsp;Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
+&emsp;The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP’2022**, Findings).
+&emsp;\[[Arxiv](https://arxiv.org/abs/2210.04692)｜[github](https://github.com/PhoebusSi/VQA-VS)|[paperwithcode](https://paperswithcode.com/dataset/vqa-vs)\]
+
+# Data
+
 
 
 
