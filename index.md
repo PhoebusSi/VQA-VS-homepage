@@ -1,12 +1,16 @@
 # Paper
-<img align="left" src="https://github.com/PhoebusSi/VQA-VS-homepage/raw/main/VS.jpg" width = "155" height = "85"/>
+<!-- <img align="left" src="https://github.com/PhoebusSi/VQA-VS-homepage/raw/main/VS.jpg" width = "155" height = "85"/>
 &emsp;**Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA**    
 &emsp;[<font size=2>Qingyi Si</font>](https://phoebussi.github.io/siqingyi/)<font size=2>, Fandong Meng, Mingyu Zheng, Zheng Lin</font> 
 &emsp;<font size=2>Yuanxin Liu，Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou</font> 
 <!-- &emsp;<font size=2>Institute of Information Engineering, Chinese Academy of Sciences</font>  -->
-<font size=2>Conference on Empirical Methods in Natural Language Processing</font> <font size=2>(EMNLP’2022, Findings)</font> 
+**Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA**   
+[<font size=2>Qingyi Si</font>](https://phoebussi.github.io/siqingyi/)<font size=2>, Fandong Meng, Mingyu Zheng, Zheng Lin</font> 
+<font size=2>Yuanxin Liu，Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou</font> 
+<font size=2>Institute of Information Engineering, Chinese Academy of Sciences</font>
+<font size=1.5>Conference on Empirical Methods in Natural Language Processing</font> <font size=2>(EMNLP’2022, Findings)</font>
 
-[ [Arxiv](https://arxiv.org/abs/2210.04692) \| [github](https://github.com/PhoebusSi/VQA-VS) \| [paperwithcode](https://paperswithcode.com/dataset/vqa-vs) \]
+   [ [Arxiv](https://arxiv.org/abs/2210.04692) \| [github](https://github.com/PhoebusSi/VQA-VS) \| [paperwithcode](https://paperswithcode.com/dataset/vqa-vs) \]
 
 # Data
 The current OOD benchmark VQA-CP v2 only considers one type of shortcut (from question type to answer) and thus still cannot guarantee that the modelrelies on the intended solution rather than a solution specific to this shortcut. To overcome this limitation, VQA-VS proposes a new dataset that considers varying types of shortcuts by constructing different distribution shifts in multiple OOD test sets. In addition, VQA-VS overcomes three troubling practices in the use of VQA-CP v2, e.g., selecting models using OOD test sets, and further standardize OOD evaluation procedure. VQA-VS provides a more rigorous and comprehensive testbed for shortcut learning in VQA. 
