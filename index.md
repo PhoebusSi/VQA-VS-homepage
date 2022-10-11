@@ -12,7 +12,7 @@
 
 <font size=2>Institute of Information Engineering, Chinese Academy of Sciences</font>
 
-<font size=1.5>Conference on Empirical Methods in Natural Language Processing</font> <font size=2>(EMNLP’2022, Findings)</font>
+<font size=2 color=black>Conference on Empirical Methods in Natural Language Processing</font> <font size=2>(EMNLP’2022, Findings)</font>
 
    [ [Arxiv](https://arxiv.org/abs/2210.04692) \| [github](https://github.com/PhoebusSi/VQA-VS) \| [paperwithcode](https://paperswithcode.com/dataset/vqa-vs) \]
 
