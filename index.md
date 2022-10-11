@@ -6,8 +6,7 @@
 <!-- &emsp;<font size=2>Institute of Information Engineering, Chinese Academy of Sciences</font>  -->
 **Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA**   
 
-[<font size=2>Qingyi Si</font>](https://phoebussi.github.io/siqingyi/)<font size=2>, Fandong Meng, Mingyu Zheng, Zheng Lin</font> 
-<font size=2>Yuanxin Liu，Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou</font> 
+[Qingyi Si](https://phoebussi.github.io/siqingyi/), Fandong Meng, Mingyu Zheng, Zheng Lin, Yuanxin Liu, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou
 
 <font size=2>Institute of Information Engineering, Chinese Academy of Sciences</font>
 
@@ -75,13 +74,13 @@ unzip coco/trainval_36.zip -d image_features/
   {"answer": "red and white", "answer_confidence": "yes", "answer_id": 10}], 
   "image_id": 262146, "answer_type": "other", "question_id": 262146002}
 ```
-<font color=red>question_type</font>:<font size=2> type of the question determined by the first few words of the question. For details, please see </font>[<font size=2>README.</font>](https://github.com/VT-vision-lab/VQA/raw/master/README.md)
+<font color=red>question_type</font>: type of the question determined by the first few words of the question. For details, please see [README.](https://github.com/VT-vision-lab/VQA/raw/master/README.md)
 
-<font color=red>answer_type</font>:<font size=2> type of the answer -- "yes/no", "number", and "other".</font>
+<font color=red>answer_type</font>: type of the answer -- "yes/no", "number", and "other".
 
-<font color=red>multiple_choice_answer</font>:<font size=2> correct multiple choice answer.</font>
+<font color=red>multiple_choice_answer</font>: correct multiple choice answer.
 
-<font color=red>answer_confidence</font>:<font size=2> subject's confidence in answering the question. For details, please see the </font>[<font size=2>VQA paper.</font>](http://arxiv.org/pdf/1505.00468v6.pdf)
+<font color=red>answer_confidence</font>: subject's confidence in answering the question. For details, please see the [VQA paper.](http://arxiv.org/pdf/1505.00468v6.pdf)
 
 # Dataset Analysis
 ## 2.1 Motivation of our benchmark.
