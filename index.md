@@ -10,7 +10,7 @@
 
 <!-- <font size=2>Institute of Information Engineering, Chinese Academy of Sciences</font> -->
 
-<font size=1 color=black>The 2022 Conference on Empirical Methods in Natural Language Processing</font> <font size=2>
+<font size=1 color=black>The 2022 Conference on Empirical Methods in Natural Language Processing</font> 
    
 **EMNLP’2022**, Findings
 
