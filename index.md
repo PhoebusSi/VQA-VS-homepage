@@ -98,6 +98,7 @@ Relevance of Shortcuts. The samples of head splits, which are frequent and domin
 
 Overlaps Between OOD Test Sets. Intuitively, if two OOD test sets share too many samples, there is no need to separately evaluate the model on the two OOD test sets. To rule out this possibility and valid the necessity of nine OOD test sets, we count the numbers of duplicate samples between all OOD test sets and compute corresponding coincidence rates. From Fig. 3(b), we find that the coincidence ratios between most OOD test sets are low. Al- though (KO, QT) has a high coincidence rate 0.79, the coincidence rate of (QT, KO) is much lower, 0.49, which shows the KO has a different emphasis compared with QT.
 
+# Comparison And Baselines
 ## Comparison of our benchmark and VQA-CP v2.
 ![image](https://github.com/PhoebusSi/VQA-VS/raw/main/figures/comparison.jpg)
 Table 2: Comparison of our benchmark and VQA-CP v2. The results are computed over four seeds.
@@ -108,7 +109,7 @@ Table 2: Comparison of our benchmark and VQA-CP v2. The results are computed ove
 Table 3: Performance of SoTA debiasing methods.
 
 
-## Reference
+# Reference
 Coming Soon!
 
 
