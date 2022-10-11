@@ -1,6 +1,6 @@
 title: VQA-VS
 logo: VS.jpg
-description: The current OOD VQA benchmark only considers one type of shortcut and thus still cannot guarantee that the modelrelies on the intended solution rather than a solution specific to this shortcut. To overcome this limitation, VQA-VS proposes a new dataset that considers varying types of shortcuts by constructing different distribution shifts in multiple OOD test sets. In addition, VQA-VS overcomes three troubling practices in the current OOD testing, and further standardize OOD evaluation procedure. VQA-VS provides a more rigorous and comprehensive testbed for shortcut learning in VQA.
+description: To alleviate the single-shortcut limitation and overcome three issues in practice, we construct and publicly release a new VQA benchmark considering Varying Shortcuts, named VQA-VS, and further standardize the OOD testing procedure. 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
