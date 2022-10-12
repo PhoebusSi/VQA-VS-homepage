@@ -36,7 +36,7 @@ The current OOD benchmark VQA-CP v2 only considers one type of shortcut (from qu
 [OOD-KW+KO-Test Annotations](https://drive.google.com/file/d/1jK35yUPVNhSKIHJgOVRzO-96QPgcQORA/view?usp=sharing) | [OOD-KW+KO-Test Questions](https://drive.google.com/file/d/13N0_sow6xOLzmz_OEgAiqgAKBbwo0y-d/view?usp=sharing)
 [OOD-QT+KW+KO-Test Annotations](https://drive.google.com/file/d/1V1IgxbQsJ17c5gcy5K0gW-hOFdPgr6-H/view?usp=sharing) | [OOD-QT+KW+KO-Test Questions](https://drive.google.com/file/d/1dwrG9apK64TfY3L9zNHfkYYu0RZC_kBY/view?usp=sharing)
 
-For simplicity, the whole dataset can be download [here](https://drive.google.com/drive/folders/1i6xqke5X5GoQ8YGoNcs3rtMsDtgs4OLG?usp=sharing).
+For simplicity, the **whole dataset** (about 700+M, containing 1 training, 1 validation, 1 IID-Test and 9 OOD-Test sets) can be download [here](https://drive.google.com/drive/folders/1i6xqke5X5GoQ8YGoNcs3rtMsDtgs4OLG?usp=sharing).
 
 ## 1.2  Other approaches to download our dataset.
 The above links for downloading are based on **Google Drive**. If Google Drive is not avaliable for you, there are two approaches to downlownd our dataset:
