@@ -15,6 +15,17 @@
 **EMNLP’2022**, Findings
 
    [ [Arxiv](https://arxiv.org/abs/2210.04692) \| [github](https://github.com/PhoebusSi/VQA-VS) \| [paperwithcode](https://paperswithcode.com/dataset/vqa-vs) \]
+   
+Please cite this paper:
+```
+@article{Si2022LanguagePI,
+  title={Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA},
+  author={Qingyi Si and Fandong Meng and Mingyu Zheng and Zheng Lin and Yuanxin Liu and Peng Fu and Yanan Cao and Weiping Wang and Jie Zhou},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2210.04692}
+}
+```
 
 # Data
 The current OOD benchmark VQA-CP v2 only considers one type of shortcut (from question type to answer) and thus still cannot guarantee that the modelrelies on the intended solution rather than a solution specific to this shortcut. To overcome this limitation, VQA-VS proposes a new dataset that considers varying types of shortcuts by constructing different distribution shifts in multiple OOD test sets. In addition, VQA-VS overcomes three troubling practices in the use of VQA-CP v2, e.g., selecting models using OOD test sets, and further standardize OOD evaluation procedure. VQA-VS provides a more rigorous and comprehensive testbed for shortcut learning in VQA. 
