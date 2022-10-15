@@ -133,9 +133,14 @@ More details and analysis can be refered to our [paper.](https://arxiv.org/abs/2
 ## 3.2  Performance of SoTA debiasing methods.
 ![image](https://github.com/PhoebusSi/VQA-VS/raw/main/figures/sotas.jpg)
 <font face="黑体" color=brown size=2>Table 3: Performance of SoTA debiasing methods.</font>
-   
 
 More details and analysis can be refered to our [paper.](https://arxiv.org/abs/2210.04692)
+
+# Code
+## Please refer to our [github](https://github.com/PhoebusSi/VQA-VS). 
+
+
+
 
 
 
